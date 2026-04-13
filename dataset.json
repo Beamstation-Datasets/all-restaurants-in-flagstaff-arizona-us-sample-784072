@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Restaurant intelligence dataset for Flagstaff, Arizona. This city-level export includes every active restaurant listing filtered by the Restaurants category group, with review analytics and sentiment data. Refreshed weekly.",
+  "config_name": "All Restaurants in Flagstaff, Arizona, US",
+  "export_job_id": "0867ecdd-a7d1-4598-8940-b2fe80b6bb32",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 784072,
+  "location_name": "Flagstaff",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-flagstaff-arizona-us-sample-784072",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/784072/beamstation_784072_restaurants-us-az_SAMPLE_DIST.csv",
+  "sample_pct": 9.48,
+  "sample_records": 11,
+  "sample_sha256": "cb303f3374b2224974148414af0c4926457800c56e4f2ed6154f56ee705b0557",
+  "sample_size_bytes": 60010,
+  "total_records": 116,
+  "updated_at": "2026-03-31T14:35:58.236507+00:00"
+}
