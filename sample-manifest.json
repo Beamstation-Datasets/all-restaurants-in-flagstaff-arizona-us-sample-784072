@@ -1,12 +1,12 @@
 {
-  "export_job_id": "57dca968-f2d1-4021-bb2e-416286ce960b",
+  "export_job_id": "3bf00481-300f-4270-80fd-07c60bf23553",
   "id_short": 784072,
-  "published_at": "2026-04-28T19:57:25Z",
+  "published_at": "2026-05-07T07:18:43Z",
   "repo_name": "all-restaurants-in-flagstaff-arizona-us-sample-784072",
   "sample_asset_name": "beamstation_784072_restaurants-us-az_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/784072/beamstation_784072_restaurants-us-az_SAMPLE_DIST.csv",
-  "sample_records": 30,
-  "sample_sha256": "b908dce00267cef570f77c08edca600b0480853842b90319aba2c7cb41725dcc",
-  "sample_size_bytes": 110296,
-  "total_records": 309
+  "sample_records": 31,
+  "sample_sha256": "399621042706362af1dfbd32fd0556fe120d42b4fccece8cf4d67908eefe7a4b",
+  "sample_size_bytes": 130223,
+  "total_records": 314
 }
