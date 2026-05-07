@@ -1,6 +1,6 @@
 # All Restaurants in Flagstaff, Arizona, US
 
-> Free BeamStation sample export with 30 rows and masked direct-contact fields.
+> Free BeamStation sample export with 31 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `784072` |
 | Location | Flagstaff |
 | Category | Restaurants |
-| Full dataset size | 309 records |
-| Free sample size | 30 records (9.71%) |
-| Last export | 2026-04-28T17:14:56.875380+00:00 |
+| Full dataset size | 314 records |
+| Free sample size | 31 records (9.87%) |
+| Last export | 2026-05-06T19:12:00.366407+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-flagstaff-arizona-us-sample-784072/releases/download/sample-latest/beamstation_784072_restaurants-us-az_SAMPLE_DIST.csv) |
 
 ## What is in this sample
